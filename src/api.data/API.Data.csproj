@@ -17,7 +17,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\api.business\API.Business.csproj" />
+	  <ProjectReference Include="..\API.Business\API.Business.csproj" />
 	</ItemGroup>
 
 </Project>
